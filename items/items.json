@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Progressive Beam",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/pickups/Progressive Beam.png",
+        "img_mods": "@disabled",
+        "codes": "progBeam"
+      },
+      {
+        "img": "images/pickups/Wide Beam.png",
+        "codes": ""
+      },
+      {
+        "img": "images/pickups/Plasma Beam.png",
+        "codes": ""
+      },
+      {
+        "img": "images/pickups/Wave Beam.png",
+        "codes": ""
+      }
+    ]
+  },
+  {
+    "name": "Wide Beam",
+    "type": "toggle",
+    "img": "images/pickups/Wide Beam.png",
+    "codes": "wide"
+  },
+  {
+    "name": "Plasma Beam",
+    "type": "toggle",
+    "img": "images/pickups/Plasma Beam.png",
+    "codes": "plasma"
+  },
+  {
+    "name": "Wave Beam",
+    "type": "toggle",
+    "img": "images/pickups/Wave Beam.png",
+    "codes": "wave"
+  },
+  {
+    "name": "Progressive Charge",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/pickups/Progressive Charge.png",
+        "img_mods": "@disabled",
+        "codes": "progCharge"
+      },
+      {
+        "img": "images/pickups/Charge Beam.png",
+        "codes": ""
+      },
+      {
+        "img": "images/pickups/Diffusion Beam.png",
+        "codes": ""
+      }
+    ]
+  },
+  {
+    "name": "Charge Beam",
+    "type": "toggle",
+    "img": "images/pickups/Charge Beam.png",
+    "codes": "charge"
+  },
+  {
+    "name": "Diffusion Beam",
+    "type": "toggle",
+    "img": "images/pickups/Diffusion Beam.png",
+    "codes": "diffusion"
+  },
+  {
+    "name": "Progressive Missile",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/pickups/Progressive Missile.png",
+        "img_mods": "@disabled",
+        "codes": "progMissile"
+      },
+      {
+        "img": "images/pickups/Super Missile.png",
+        "codes": ""
+      },
+      {
+        "img": "images/pickups/Ice Missile.png",
+        "codes": ""
+      }
+    ]
+  },
+  {
+    "name": "Super Missile",
+    "type": "toggle",
+    "img": "images/pickups/Super Missile.png",
+    "codes": "supers"
+  },
+  {
+    "name": "Ice Missile",
+    "type": "toggle",
+    "img": "images/pickups/Ice Missile.png",
+    "codes": "ice"
+  },
+  {
+    "name": "Progressive Bomb",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/pickups/Progressive Bombs.png",
+        "img_mods": "@disabled",
+        "codes": "progBomb"
+      },
+      {
+        "img": "images/pickups/Morph Bomb.png",
+        "codes": ""
+      },
+      {
+        "img": "images/pickups/Cross Bomb.png",
+        "codes": ""
+      }
+    ]
+  },
+  {
+    "name": "Bomb",
+    "type": "toggle",
+    "img": "images/pickups/Morph Bomb.png",
+    "codes": "bomb,bombs"
+  },
+  {
+    "name": "Cross Bomb",
+    "type": "toggle",
+    "img": "images/pickups/Cross Bomb.png",
+    "codes": "cross"
+  },
+  {
+    "name": "Progressive Spin",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/pickups/Progressive Jump.png",
+        "img_mods": "@disabled",
+        "codes": "progSpin"
+      },
+      {
+        "img": "images/pickups/Spin Boost.png",
+        "codes": ""
+      },
+      {
+        "img": "images/pickups/Space Jump.png",
+        "codes": ""
+      }
+    ]
+  },
+  {
+    "name": "Spin Boost",
+    "type": "toggle",
+    "img": "images/pickups/Spin Boost.png",
+    "codes": "spin"
+  },
+  {
+    "name": "Space Jump",
+    "type": "toggle",
+    "img": "images/pickups/Space Jump.png",
+    "codes": "space"
+  },
+  {
+    "name": "Progressive Suit",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/pickups/Progressive Suit.png",
+        "img_mods": "@disabled",
+        "codes": "progSuit"
+      },
+      {
+        "img": "images/pickups/Varia Suit.png",
+        "codes": ""
+      },
+      {
+        "img": "images/pickups/Gravity Suit.png",
+        "codes": ""
+      }
+    ]
+  },
+  {
+    "name": "Varia Suit",
+    "type": "toggle",
+    "img": "images/pickups/Varia Suit.png",
+    "codes": "varia"
+  },
+  {
+    "name": "Gravity Suit",
+    "type": "toggle",
+    "img": "images/pickups/Gravity Suit.png",
+    "codes": "gravity"
+  },
+  {
+    "name": "Grapple Beam",
+    "type": "toggle",
+    "img": "images/pickups/Grapple Beam.png",
+    "codes": "grapple"
+  },
+  {
+    "name": "Morph Ball",
+    "type": "toggle",
+    "img": "images/pickups/Morph Ball.png",
+    "codes": "morph"
+  },
+  {
+    "name": "Power Bomb",
+    "type": "toggle",
+    "img": "images/pickups/Power Bomb.png",
+    "codes": "pb,pbs,powerbomb,powerbombs"
+  },
+  {
+    "name": "Screw Attack",
+    "type": "toggle",
+    "img": "images/pickups/Screw Attack.png",
+    "codes": "screw"
+  },
+  {
+    "name": "Speed Booster",
+    "type": "toggle",
+    "img": "images/pickups/Speed Booster Better.png",
+    "codes": "speed"
+  },
+  {
+    "name": "Spider Magnet",
+    "type": "toggle",
+    "img": "images/pickups/Spider Magnet.png",
+    "codes": "spider,magnet"
+  },
+  {
+    "name": "Storm Missile",
+    "type": "toggle",
+    "img": "images/pickups/Storm Missile.png",
+    "codes": "storm"
+  },
+  {
+    "name": "Phantom Cloak",
+    "type": "toggle",
+    "img": "images/pickups/Phantom Cloak.png",
+    "codes": "cloak"
+  },
+  {
+    "name": "Flash Shift",
+    "type": "toggle",
+    "img": "images/pickups/Flash Shift.png",
+    "codes": "flash"
+  },
+  {
+    "name": "Pulse Radar",
+    "type": "toggle",
+    "img": "images/pickups/Scan Pulse.png",
+    "codes": "pulse,scan"
+  },
+  {
+    "name": "X Released",
+    "type": "toggle",
+    "img": "images/pickups/Ohno.png",
+    "codes": "x"
+  },
+  {
+    "name": "Go Mode",
+    "type": "toggle",
+    "img": "images/pickups/Ship.png",
+    "codes": "go"
+  }
+]

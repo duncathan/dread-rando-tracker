@@ -1,0 +1,17 @@
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "array",
+            "orientation": "vertical",
+            "dropshadow": true,
+            "margin": "5",
+            "content": [
+                {
+                    "type": "layout",
+                    "key": "progressive_grid"
+                }
+            ]
+        }
+    }
+}

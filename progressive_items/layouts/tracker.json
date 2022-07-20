@@ -1,0 +1,18 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#212121",
+        "content": {
+            "type": "array",
+            "orientation": "vertical",
+            "dropshadow": true,
+            "margin": "5",
+            "content": [
+                {
+                    "type": "layout",
+                    "key": "progressive_grid"
+                }
+            ]
+        }
+    }
+}

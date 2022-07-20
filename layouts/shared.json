@@ -1,0 +1,22 @@
+{
+  "progressive_grid": {
+    "type": "itemgrid",
+    "item_size": 90,
+    "item_margin": "5",
+    "rows": [
+      [ "progBeam", "progCharge", "progMissile", "storm"   ],
+      [ "morph",    "progBomb",   "pbs",         "grapple" ],
+      [ "speed",    "progSpin",   "screw",       "magnet"  ],
+      [ "progSuit", "cloak",      "flash",       "pulse"   ]
+    ]
+  },
+  "full_grid": {
+    "type": "itemgrid",
+    "item_size": 90,
+    "item_margin": "5",
+    "rows": [
+      [ "wide",  "plasma", "wave",  "charge", "diffusion", "supers",  "ice",  "storm", "grapple", "cloak", "flash", "pulse" ],
+      [ "morph", "bomb",   "cross", "pbs",    "varia",     "gravity", "spin", "space", "magnet",  "screw", "speed", "go"    ]
+    ]
+  }
+}
