@@ -4,10 +4,19 @@
     "item_size": 90,
     "item_margin": "5",
     "rows": [
-      [ "progBeam", "progCharge", "progMissile", "storm"   ],
-      [ "morph",    "progBomb",   "pbs",         "grapple" ],
-      [ "speed",    "progSpin",   "screw",       "magnet"  ],
-      [ "progSuit", "cloak",      "flash",       "pulse"   ]
+      [ "progBeam",    "progCharge", "grapple", "morph", "progBomb", "pb"    ],
+      [ "progMissile", "storm",      "magnet",  "speed", "progSpin", "screw" ],
+      [ "progSuit",    "cloak",      "flash",   "pulse", "nothing",  "go"    ]
+    ]
+  },
+  "progressive_grid_no_boss": {
+    "type": "itemgrid",
+    "item_size": 90,
+    "item_margin": "5",
+    "rows": [
+      [ "progBeam",    "progCharge", "grapple", "morph", "progBomb", "pb"    ],
+      [ "progMissile", "storm",      "magnet",  "speed", "progSpin", "screw" ],
+      [ "progSuit",    "cloak",      "flash",   "pulse", "nothing",  "dna"    ]
     ]
   },
   "full_grid": {
@@ -17,6 +26,31 @@
     "rows": [
       [ "wide",  "plasma", "wave",  "charge", "diffusion", "supers",  "ice",  "storm", "grapple", "cloak", "flash", "pulse" ],
       [ "morph", "bomb",   "cross", "pbs",    "varia",     "gravity", "spin", "space", "magnet",  "screw", "speed", "go"    ]
+    ]
+  },
+  "full_grid_no_boss": {
+    "type": "itemgrid",
+    "item_size": 90,
+    "item_margin": "5",
+    "rows": [
+      [ "wide",  "plasma", "wave",  "charge", "diffusion", "supers",  "ice",  "storm", "grapple", "cloak", "flash", "pulse" ],
+      [ "morph", "bomb",   "cross", "pbs",    "varia",     "gravity", "spin", "space", "magnet",  "screw", "speed", "dna"    ]
+    ]
+  },
+  "major_bosses": {
+    "type": "itemgrid",
+    "item_size": 90,
+    "item_margin": "5",
+    "rows": [
+      [ "corpiusdna", "kraiddna", "drogygadna", "escuedna", "experimentdna", "golzunadna" ]
+    ]
+  },
+  "emmis": {
+    "type": "itemgrid",
+    "item_size": 90,
+    "item_margin": "5",
+    "rows": [
+      [ "whiteemmidna", "greenemmidna", "yellowemmidna", "blueemmidna", "purpleemmidna", "orangeemmidna" ]
     ]
   }
 }

@@ -1,0 +1,31 @@
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "array",
+            "orientation": "vertical",
+            "dropshadow": true,
+            "margin": "5",
+            "content": [
+                {
+                    "type": "layout",
+                    "key": "full_grid"
+                },
+                {
+                    "type": "array",
+                    "orientation": "horizontal",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "major_bosses"
+                        },
+                        {
+                            "type": "layout",
+                            "key": "emmis"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

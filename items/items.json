@@ -272,5 +272,19 @@
     "type": "toggle",
     "img": "images/pickups/Ship.png",
     "codes": "go"
+  },
+  {
+    "name": "Metroid DNA",
+    "type": "consumable",
+    "img": "images/pickups/DNA.png",
+    "codes": "dna",
+    "max_quantity": 12,
+    "display_as_fraction_of_max": true
+  },
+  {
+    "name": "Nothing",
+    "type": "static",
+    "codes": "nothing",
+    "img": null
   }
 ]

@@ -1,7 +1,6 @@
 {
-    "tracker_default": {
+    "tracker_broadcast": {
         "type": "container",
-        "background": "#212121",
         "content": {
             "type": "array",
             "orientation": "vertical",
@@ -10,7 +9,15 @@
             "content": [
                 {
                     "type": "layout",
-                    "key": "full_grid_no_boss"
+                    "key": "progressive_grid"
+                },
+                {
+                    "type": "layout",
+                    "key": "major_bosses"
+                },
+                {
+                    "type": "layout",
+                    "key": "emmis"
                 }
             ]
         }

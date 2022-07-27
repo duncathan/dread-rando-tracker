@@ -10,7 +10,7 @@
             "content": [
                 {
                     "type": "layout",
-                    "key": "progressive_grid"
+                    "key": "progressive_grid_no_boss"
                 }
             ]
         }

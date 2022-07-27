@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Corpius",
+        "type": "toggle",
+        "loop": true,
+        "codes": "corpius",
+        "img": "images/bosses/Corpius Icon.png"
+    },
+    {
+        "name": "Corpius DNA",
+        "type": "toggle_badged",
+        "base_item": "corpius",
+        "codes": "corpiusdna",
+        "img": "images/bosses/DNA128.png"
+    },
+    {
+        "name": "Kraid",
+        "type": "toggle",
+        "loop": true,
+        "codes": "kraid",
+        "img": "images/bosses/Kraid Icon.png"
+    },
+    {
+        "name": "Kraid DNA",
+        "type": "toggle_badged",
+        "base_item": "kraid",
+        "codes": "kraiddna",
+        "img": "images/bosses/DNA128.png"
+    },
+    {
+        "name": "Drogyga",
+        "type": "toggle",
+        "loop": true,
+        "codes": "drogyga",
+        "img": "images/bosses/Drogyga Icon.png"
+    },
+    {
+        "name": "Drogyga DNA",
+        "type": "toggle_badged",
+        "base_item": "drogyga",
+        "codes": "drogygadna",
+        "img": "images/bosses/DNA128.png"
+    },
+    {
+        "name": "Escue",
+        "type": "toggle",
+        "loop": true,
+        "codes": "escue",
+        "img": "images/bosses/Escue Icon.png"
+    },
+    {
+        "name": "Escue DNA",
+        "type": "toggle_badged",
+        "base_item": "escue",
+        "codes": "escuedna",
+        "img": "images/bosses/DNA128.png"
+    },
+    {
+        "name": "Experiment Z-57",
+        "type": "toggle",
+        "loop": true,
+        "codes": "experiment",
+        "img": "images/bosses/Z-57 Icon.png"
+    },
+    {
+        "name": "Experiment Z-57 DNA",
+        "type": "toggle_badged",
+        "base_item": "experiment",
+        "codes": "experimentdna",
+        "img": "images/bosses/DNA128.png"
+    },
+    {
+        "name": "Golzuna",
+        "type": "toggle",
+        "loop": true,
+        "codes": "golzuna",
+        "img": "images/bosses/Golzuna Icon.png"
+    },
+    {
+        "name": "Golzuna DNA",
+        "type": "toggle_badged",
+        "base_item": "golzuna",
+        "codes": "golzunadna",
+        "img": "images/bosses/DNA128.png"
+    },
+    {
+        "name": "E.M.M.I.-02SM",
+        "type": "toggle",
+        "loop": true,
+        "codes": "whiteemmi",
+        "img": "images/bosses/Spider Magnet Icon.png"
+    },
+    {
+        "name": "E.M.M.I.-02SM DNA",
+        "type": "toggle_badged",
+        "base_item": "whiteemmi",
+        "codes": "whiteemmidna",
+        "img": "images/bosses/DNA512.png"
+    },
+    {
+        "name": "E.M.M.I.-03MB",
+        "type": "toggle",
+        "loop": true,
+        "codes": "greenemmi",
+        "img": "images/bosses/Morph Ball Icon.png"
+    },
+    {
+        "name": "E.M.M.I.-03MB DNA",
+        "type": "toggle_badged",
+        "base_item": "greenemmi",
+        "codes": "greenemmidna",
+        "img": "images/bosses/DNA512.png"
+    },
+    {
+        "name": "E.M.M.I.-04SB",
+        "type": "toggle",
+        "loop": true,
+        "codes": "yellowemmi",
+        "img": "images/bosses/Speed Boster Icon.png"
+    },
+    {
+        "name": "E.M.M.I.-04SB DNA",
+        "type": "toggle_badged",
+        "base_item": "yellowemmi",
+        "codes": "yellowemmidna",
+        "img": "images/bosses/DNA512.png"
+    },
+    {
+        "name": "E.M.M.I.-05IM",
+        "type": "toggle",
+        "loop": true,
+        "codes": "blueemmi",
+        "img": "images/bosses/Ice Missile Icon.png"
+    },
+    {
+        "name": "E.M.M.I.-05IM DNA",
+        "type": "toggle_badged",
+        "base_item": "blueemmi",
+        "codes": "blueemmidna",
+        "img": "images/bosses/DNA512.png"
+    },
+    {
+        "name": "E.M.M.I.-06WB",
+        "type": "toggle",
+        "loop": true,
+        "codes": "purpleemmi",
+        "img": "images/bosses/Wave Beam Icon.png"
+    },
+    {
+        "name": "E.M.M.I.-06WB DNA",
+        "type": "toggle_badged",
+        "base_item": "purpleemmi",
+        "codes": "purpleemmidna",
+        "img": "images/bosses/DNA512.png"
+    },
+    {
+        "name": "E.M.M.I.-07PB",
+        "type": "toggle",
+        "loop": true,
+        "codes": "orangeemmi",
+        "img": "images/bosses/Power Bomb Icon.png"
+    },
+    {
+        "name": "E.M.M.I.-07PB DNA",
+        "type": "toggle_badged",
+        "base_item": "orangeemmi",
+        "codes": "orangeemmidna",
+        "img": "images/bosses/DNA512.png"
+    }
+  ]

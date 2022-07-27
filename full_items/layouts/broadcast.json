@@ -9,7 +9,7 @@
             "content": [
                 {
                     "type": "layout",
-                    "key": "full_grid"
+                    "key": "full_grid_no_boss"
                 }
             ]
         }

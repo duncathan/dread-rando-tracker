@@ -3,15 +3,21 @@
   "game_name": "Metroid Dread",
   "game_variant": "4.5.0",
   "platform": "Nintendo Switch",
-  "package_version": "0.1.0.0",
+  "package_version": "0.2.0.0",
   "package_uid": "dread_duncathan",
   "author": "duncathan_salt, SkyTheLucario",
   "variants": {
-    "progressive_items": {
+    "progressive_items_bosses": {
       "display_name": "Progressive Item Tracker"
     },
-    "full_items": {
+    "progressive_items": {
+      "display_name": "Progressive Item Tracker (No Bosses)"
+    },
+    "full_items_bosses": {
       "display_name": "Full Item Tracker"
+    },
+    "full_items": {
+      "display_name": "Full Item Tracker (No Bosses)"
     }
   }
 }
